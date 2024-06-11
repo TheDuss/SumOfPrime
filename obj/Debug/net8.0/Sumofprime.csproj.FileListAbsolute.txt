@@ -1,0 +1,14 @@
+c:\Users\morta\Desktop\Sumofprime\bin\Debug\net8.0\Sumofprime.exe
+c:\Users\morta\Desktop\Sumofprime\bin\Debug\net8.0\Sumofprime.deps.json
+c:\Users\morta\Desktop\Sumofprime\bin\Debug\net8.0\Sumofprime.runtimeconfig.json
+c:\Users\morta\Desktop\Sumofprime\bin\Debug\net8.0\Sumofprime.dll
+c:\Users\morta\Desktop\Sumofprime\bin\Debug\net8.0\Sumofprime.pdb
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\Sumofprime.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\Sumofprime.AssemblyInfoInputs.cache
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\Sumofprime.AssemblyInfo.cs
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\Sumofprime.csproj.CoreCompileInputs.cache
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\Sumofprime.dll
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\refint\Sumofprime.dll
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\Sumofprime.pdb
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\Sumofprime.genruntimeconfig.cache
+c:\Users\morta\Desktop\Sumofprime\obj\Debug\net8.0\ref\Sumofprime.dll
